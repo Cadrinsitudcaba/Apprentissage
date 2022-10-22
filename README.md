@@ -6,7 +6,7 @@
 ### Dépôt distant
 ###### - Associer un dépôt distant à son dépôt local : 
 git remote add DD https://github.com/xxx.git
-###### - Mettre à jour le dépôt local :
+###### - Mettre à jour le dépôt local à partir du dépôt distant :
 git pull DD main
 
 - ![image](https://user-images.githubusercontent.com/114932101/196004812-b796576d-d6f3-4637-829e-9bc5eb1bf1b8.png)
